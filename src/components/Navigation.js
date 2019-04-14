@@ -1,10 +1,10 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
 
-const Header = () => (
+const Navigation = () => (
     <header>
-        <h1>HEADER TEST</h1>
+        <h1>NAVIGATION TEST</h1>
     </header>
 );
 
-export default Header;
+export default Navigation;
